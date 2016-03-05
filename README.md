@@ -6,6 +6,7 @@ This project is designed to be a spiritual successor to the current [fuslogvw](h
 ## Motivation
 
 The original Fuslogvw.exe has a very outdated UI, with many usability issues, including:
+
 1. No search/filter functionality
 2. Cannot order columns
 3. Not resizable
