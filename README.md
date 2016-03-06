@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lue2eapuxift9or7/branch/master?svg=true)](https://ci.appveyor.com/project/AlexEyler/fuslogvw2/branch/master)
 
 ## Synopsis
 
